@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Study Aid</string>
+    <string name="app_icon_course">Course</string>
+    <string name="app_icon_maps">Maps</string>
+    <string name="app_icon_news">News</string>
+    <string name="app_icon_socials">Social</string>
+    <string name="app_icon_registered">Registered</string>
+
+
+    <string name="id_course">Id course</string>
+    <string name="type_course">Type course</string>
+    <string name="name_course">Name course</string>
+    <string name="time_course">Time course</string>
+
+    <string name="nameADR_MAPS">Name address</string>
+    <string name="longtitude_MAPS">longtitude</string>
+    <string name="latitude_MAPS">latitude</string>
+
+
+    <string name="menu_addCourse">Add course</string>
+    <string name="menu_exit">Exit</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+
+
+    <string name="type_news">news - politics</string>
+    <string name="facebook_app_id">472750156661065</string>
+    <string name="fb_login_protocol_scheme">fb472750156661065</string>
+    <string name="title_activity_ma">Map</string>
+</resources>
